@@ -1,6 +1,6 @@
 {
   "name": "تليثون العرب",
-  "description": "تنصيب تليثون العرب الاصلي معرف قناتنا @iqthon",
+  "description": "تنصيب تليثون العرب الاصلي معرف قناتنا @vymt1",
   "logo": "https://telegra.ph/file/277559574a1e241f5532e.jpg",
   "keywords": [    "plugin",    "modular",    "productivity"  ],
   "repository": "https://github.com/Telethon-helper/Helper/",
@@ -8,27 +8,27 @@
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "ضع اسمك الذي في تليجرام",
+      "description": "خلي اسمك نفسه بل تليجرام",
       "value": ""
     },
     "APP_ID": {
-      "description": "ضع الايبي ايدي هنا",
+      "description": "خلي الايبي ايدي هنا",
       "value": ""
     },
     "API_HASH": {
-      "description": "ضع الايبي هاش هنا",
+      "description": "خلي الايبي هاش هنا",
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "ضع كود تيرمكس هنا",
+      "description": "خلي كود تيرمكس هنا",
       "value": ""
     },
     "TG_BOT_USERNAME": {
-      "description": " ضع معرف البوت هنا",
+      "description": " خلي معرف البوت هنا",
       "value": ""
     },
     "TG_BOT_TOKEN": {
-      "description": "ضع توكن البوت هنا",
+      "description": "خلي توكن البوت هنا",
       "value": ""
     },
     "TZ": {
